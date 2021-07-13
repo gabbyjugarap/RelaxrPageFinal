@@ -1,0 +1,144 @@
+*{
+	margin:0px;
+}
+body{
+	font-family:'Open Sans',sans-serif;
+}
+header{
+	background-image:url(images/header_bg.jpg);
+	height:500px;
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+h1{
+	color:white;
+	margin-left:50px;
+	font-weight:800;
+	font-size:24px;
+}
+#center{
+	text-align:center;
+	color:white;
+	font-style:lighter 300;
+}
+/*inline vs block elements*/
+button{
+	display:block;
+	margin:0 auto;
+	background-color:#f9e42e;
+	padding:15px;
+	border-radius:8px;
+	font-weight:bolder;
+	width:150px;
+	height:40px;
+	text-align:center;
+	line-height: 10px;
+}
+h3{
+	font-weight:bold;
+	font-size:20px;
+	color:#033048;
+	padding-left:30px;
+
+}
+.middle{
+	background:#f0efef;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+p,li{
+	font-weight:lighter;
+	font-size:13px;
+	color:#606161;
+} 
+p{
+	position: relative;
+	left: 30px;
+}
+li{
+	list-style-position:inside;
+}
+.testimonial{
+	background-image:url(images/testimonial_bg.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size: cover;
+	color:white;
+}
+h4{
+	font-style:italic;
+	font-size: 18px;
+	font-weight:lighter;
+	text-align:center;
+	text-align-last:center;
+	margin: auto;
+	padding: 30px;
+	padding-bottom: none;
+}
+h5{
+	text-align:center;
+	margin: auto;
+	padding-bottom: 30px;
+	font-weight:bold;
+	font-size: 18px;
+}
+#button2{
+	color:white;
+	display:block;
+	margin:0 auto;
+	background-color:#033048;
+	border-radius:8px;
+	font-weight:bold;
+	width:180px;
+	height:40px;
+	text-align:center;
+}
+.button2{
+	background-color:#f9e42e;
+	background-size:cover;
+}
+img{
+	width:30px;
+	height:30px;
+	object-fit:contain;
+}
+.twitter{
+	margin-left: auto;
+	margin-right:auto;
+	display: inline-block;
+	height: 30px;
+}
+.facebook{
+	margin-left: auto;
+	margin-right:auto;
+	display: inline-block;
+	height: 30px;
+	padding-left: 17px;
+}
+h6{
+	text-align:center;
+	font-weight:bolder;
+	font-size:24px; 
+	color:#f9e42e;
+}
+.icons,h6{
+	background-color:#121212;
+	text-align:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position: center;
+}
+.footer{
+	background-color:#121212;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position: center;
+	text-align:center;
+	font-size:9px;
+	font-weight:750px;
+	color:white;
+}
+.bottom{
+	background-color:#121212;
+}

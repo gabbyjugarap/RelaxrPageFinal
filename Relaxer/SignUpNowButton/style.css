@@ -1,0 +1,99 @@
+*{
+  margin:0px;
+}
+header{
+  background-image:url(https://i.gifer.com/64V.gif);
+  height:200px;
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+h1{
+  color:white;
+  margin-left:50px;
+  font-weight:800;
+  font-size:24px;
+}
+h2{
+  text-align:center;
+  color:white;
+  font-weight:bold;
+  font-size:34px;
+}
+h3{
+  font-weight:bold;
+  font-size:20px;
+  text-align:center;
+  color:#00093A;
+}
+h4{
+  text-align:center;
+  padding-top:8px;
+}
+h5{
+  text-align: center;
+  font-size:16px;
+  padding-top: 8px;
+}
+.middle{
+  background:#E5BD94;
+  background-repeat:no-repeat;
+  background-size:cover;
+  padding-bottom: 20px;
+}
+ul{
+  border: 4px groove;
+  margin-left:180px;
+  margin-right:200px;
+}
+input{
+  border: 2px solid;
+  background:#E5BD94; 
+  -moz-appearance: textfield;
+}
+.li1{
+  padding-top:10px;
+}
+.li3{
+  padding-bottom:14px;
+}
+li{
+  list-style-type: none;
+  width:100%;
+  font-size:20px;
+  text-align:center;
+}
+.submit{
+  background-color:#E5BD94; 
+  color: black; 
+  border: 2px solid #152A78;
+  border-radius:10px;
+  margin: auto;
+  text-align: center;
+  display:block;
+  font-weight: bold;
+}
+.submit:hover{
+  background-color: #152A78;
+  color: white;
+}
+.button2{
+  background-color: #121212; 
+  color: white; 
+  border: 2px solid #f9e42e;
+  border-radius:10px;
+  margin: auto;
+  margin-top:10px;
+  text-align: center;
+  display:block;
+  font-weight: bold;
+}
+.button2:hover{
+  background-color: #f9e42e;
+  color: #1E1E1E;
+}
+.bottom{
+  padding-top:5px;
+  background-color:#121212;
+  height:50px;
+}
